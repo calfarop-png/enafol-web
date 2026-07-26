@@ -1,0 +1,10 @@
+# ==========================================
+# ENAFOL
+# robots.txt
+# ==========================================
+
+User-agent: *
+
+Allow: /
+
+Sitemap: https://enafol.cl/sitemap.xml
